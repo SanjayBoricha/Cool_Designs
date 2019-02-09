@@ -1,0 +1,24 @@
+body 
+{
+	margin: 0;
+	padding: 0;
+	background: #262626;
+}
+
+h1
+{
+	position: absolute;
+	top: 50%;
+	left: 18%;
+	right: 18%;
+	transform: translateY(-50%);
+	margin: auto;
+	padding: 0;
+	width: auto;
+	font-size: 6em;
+	font-family: sans-serif;
+	background: linear-gradient(to right,#f32170,#ffeb07,#2196f3,#ff00eb);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	text-shadow: 0 0 2px rgba(0,0,0,.3);
+}
